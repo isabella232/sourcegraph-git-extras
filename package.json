@@ -146,7 +146,7 @@
     "vscode-languageserver-types": "^3.14.0"
   },
   "dependencies": {
-    "date-fns": "^2.0.0-alpha.24",
+    "date-fns": "^2.16.1",
     "rxjs": "^6.4.0",
     "tagged-template-noop": "^2.1.0"
   },
